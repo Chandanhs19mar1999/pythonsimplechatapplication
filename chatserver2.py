@@ -1,4 +1,5 @@
 import socket
+print("simple chat application ")
 host='localhost'
 port=9000
 s=socket.socket()
